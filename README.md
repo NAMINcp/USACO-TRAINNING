@@ -1,2 +1,2 @@
 # USACO-TRAINNING
-# randoms solutions for USACO training.
+randoms solutions for USACO training.
